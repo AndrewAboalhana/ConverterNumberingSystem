@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ConverterCalculator</string>
+    <string name="bin">Bin</string>
+    <string name="dec">Dec</string>
+    <string name="oct">Oct</string>
+    <string name="hex">Hex</string>
 </resources>

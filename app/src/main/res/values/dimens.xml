@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_radio_button">60dp</dimen>
+    <dimen name="height_radio_button">40dp</dimen>
+    <dimen name="radio_button_text">16sp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="normal_margin">16dp</dimen>
+    <dimen name="large_margin">20dp</dimen>
+    <dimen name="default_text_padding">12dp</dimen>
+    <dimen name="default_text_size">20sp</dimen>
+    <dimen name="answer_text_size">38sp</dimen>
+</resources>
