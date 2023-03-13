@@ -11,4 +11,7 @@
     <color name="radio_button_pressed">#7B721F</color>
     <color name="text_color">#7B721F</color>
     <color name="default_button_color">#FAFAFA</color>
+    <color name="checked_button_color">#BAAB23</color>
+    <color name="disaple_button_color">#ACA66D</color>
+    <color name="number_to_convert_color">#545454</color>
 </resources>

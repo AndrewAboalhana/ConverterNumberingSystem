@@ -5,8 +5,15 @@
     <dimen name="radio_button_text">16sp</dimen>
     <dimen name="small_margin">4dp</dimen>
     <dimen name="normal_margin">16dp</dimen>
-    <dimen name="large_margin">20dp</dimen>
-    <dimen name="default_text_padding">12dp</dimen>
+    <dimen name="large_margin">10dp</dimen>
+    <dimen name="default_text_padding">8dp</dimen>
     <dimen name="default_text_size">20sp</dimen>
-    <dimen name="answer_text_size">38sp</dimen>
+    <dimen name="answer_text_size">34sp</dimen>
+    <dimen name="radio_group_margin">40dp</dimen>
+    <dimen name="button_number_width">72dp</dimen>
+    <dimen name="button_number_height">72dp</dimen>
+    <dimen name="button_text_size">24sp</dimen>
+    <dimen name="ac_button_margin">24dp</dimen>
+    <dimen name="button_margin_start">16dp</dimen>
+    <dimen name="margin_top_button">8dp</dimen>
 </resources>

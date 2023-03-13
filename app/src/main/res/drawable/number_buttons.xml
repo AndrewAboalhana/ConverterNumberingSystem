@@ -10,7 +10,7 @@
     <item android:state_enabled="false">
         <shape android:shape="rectangle">
             <corners android:radius="28dp"/>
-            <solid android:color="#ACA66D"/>
+            <solid android:color="@color/disaple_button_color"/>
         </shape>
     </item>
 
